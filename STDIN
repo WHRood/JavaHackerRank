@@ -1,0 +1,15 @@
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);//creates a scanner object and names it scan 
+        int first_num = scan.nextInt(); // first number
+        int sec_num = scan.nextInt(); // second number for input
+        int third_num = scan.nextInt(); // third number for input
+        //executables
+        System.out.println(first_num); // prints the first second and third numbers
+        System.out.println(sec_num);
+        System.out.println(third_num);
+    }
+}
