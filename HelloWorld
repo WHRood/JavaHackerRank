@@ -1,0 +1,7 @@
+public class Solution {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World.");// hello there world
+        System.out.println("Hello, Java.");// hello java programming language!
+    }
+}
